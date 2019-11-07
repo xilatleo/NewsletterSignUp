@@ -1,4 +1,4 @@
-# NewsletterSingUp
+# NewsletterSignUp
 Nodejs, express, Mailchimp, Heroku
 
 Check out:
